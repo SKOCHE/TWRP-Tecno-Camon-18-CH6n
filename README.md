@@ -1,7 +1,10 @@
-echo "# TWRP-Tecno-Camon-18-CH6n" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SKOCHE/TWRP-Tecno-Camon-18-CH6n.git
-git push -u origin main
+# Android device tree for Tecno-Camon-18-CH6n-12
+
+```
+#
+# Copyright (C) 2023 The Android Open Source Project
+# Copyright (C) 2023 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+
+```
